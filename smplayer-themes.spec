@@ -1,12 +1,12 @@
 Summary:	Themes icons for SMPlayer
 Summary(pl.UTF-8):	Motywy graficzne dla SMPlayera
 Name:		smplayer-themes
-Version:	0.1.14
+Version:	0.1.15
 Release:	1
 License:	GPL
 Group:		Applications/Multimedia
 Source0:	http://downloads.sourceforge.net/smplayer/%{name}-%{version}.tar.bz2
-# Source0-md5:	df643b9cc09bc5f499ef00c9aa01ba33
+# Source0-md5:	b36200b248fbb469b818381c4ed50535
 URL:		http://smplayer.sourceforge.net/
 Requires:	smplayer >= 0.4.12
 BuildArch:	noarch
