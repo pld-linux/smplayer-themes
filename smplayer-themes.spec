@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Motywy graficzne dla SMPlayera
 Name:		smplayer-themes
 Version:	20120919
 Release:	1
-License:	GPL
+License:	GPL v2+
 Group:		Applications/Multimedia
 Source0:	http://downloads.sourceforge.net/smplayer/%{name}-%{version}.tar.bz2
 # Source0-md5:	4af3433f2fc7a4b543e576fb7985eb35
