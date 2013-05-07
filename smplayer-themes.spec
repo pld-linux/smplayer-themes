@@ -32,4 +32,17 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%{_datadir}/smplayer/themes
+%dir %{_datadir}/smplayer/themes
+%{_datadir}/smplayer/themes/Breathless
+%{_datadir}/smplayer/themes/Gartoon
+%{_datadir}/smplayer/themes/Gnome
+%{_datadir}/smplayer/themes/Noia
+%{_datadir}/smplayer/themes/Nuvola
+%{_datadir}/smplayer/themes/Oxygen
+%{_datadir}/smplayer/themes/Oxygen-Air
+%{_datadir}/smplayer/themes/Oxygen-Refit
+%{_datadir}/smplayer/themes/Silk
+%{_datadir}/smplayer/themes/Tango
+%{_datadir}/smplayer/themes/blackPanther-Light
+%{_datadir}/smplayer/themes/blackPanther-Real
+%{_datadir}/smplayer/themes/blackPanther-VistaLike
